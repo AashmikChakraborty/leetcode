@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AashmikChakraborty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
