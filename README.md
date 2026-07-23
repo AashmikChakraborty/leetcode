@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AashmikChakraborty/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AashmikChakraborty/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
