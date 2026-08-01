@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AashmikChakraborty/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashmikChakraborty/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AashmikChakraborty/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
