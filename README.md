@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AashmikChakraborty/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 ## Recursion
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashmikChakraborty/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AashmikChakraborty/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AashmikChakraborty/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashmikChakraborty/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
