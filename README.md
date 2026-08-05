@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AashmikChakraborty/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AashmikChakraborty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
