@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AashmikChakraborty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
