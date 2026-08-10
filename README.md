@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AashmikChakraborty/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
