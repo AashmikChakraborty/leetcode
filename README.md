@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AashmikChakraborty/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
