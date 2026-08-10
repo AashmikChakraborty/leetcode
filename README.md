@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AashmikChakraborty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AashmikChakraborty/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AashmikChakraborty/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0137-single-number-ii) |
@@ -173,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
