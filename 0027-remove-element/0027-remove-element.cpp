@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int k = 0; // Points to the position where the next valid element goes
+        int k = 0; 
 
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] != val) {
