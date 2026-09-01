@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/AashmikChakraborty/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AashmikChakraborty/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AashmikChakraborty/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AashmikChakraborty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
