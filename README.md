@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AashmikChakraborty/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AashmikChakraborty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AashmikChakraborty/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AashmikChakraborty/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AashmikChakraborty/leetcode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
