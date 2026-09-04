@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/AashmikChakraborty/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AashmikChakraborty/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AashmikChakraborty/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AashmikChakraborty/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
