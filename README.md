@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AashmikChakraborty/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AashmikChakraborty/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -232,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
