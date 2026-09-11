@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AashmikChakraborty/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AashmikChakraborty/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/AashmikChakraborty/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0922-sort-array-by-parity-ii) |
