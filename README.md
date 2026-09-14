@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/AashmikChakraborty/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/AashmikChakraborty/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AashmikChakraborty/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
