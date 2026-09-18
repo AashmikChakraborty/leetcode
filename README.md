@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AashmikChakraborty/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AashmikChakraborty/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AashmikChakraborty/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AashmikChakraborty/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AashmikChakraborty/leetcode/tree/master/0223-rectangle-area) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AashmikChakraborty/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AashmikChakraborty/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/AashmikChakraborty/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/AashmikChakraborty/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AashmikChakraborty/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AashmikChakraborty/leetcode/tree/master/0120-triangle) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AashmikChakraborty/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
