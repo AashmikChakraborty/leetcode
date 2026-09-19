@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AashmikChakraborty/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/AashmikChakraborty/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/AashmikChakraborty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AashmikChakraborty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/AashmikChakraborty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
