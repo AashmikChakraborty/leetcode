@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AashmikChakraborty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/AashmikChakraborty/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/AashmikChakraborty/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AashmikChakraborty/leetcode/tree/master/1929-concatenation-of-array) |
 ## Newton's Method
