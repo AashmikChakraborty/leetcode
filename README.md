@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AashmikChakraborty/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AashmikChakraborty/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AashmikChakraborty/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/AashmikChakraborty/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AashmikChakraborty/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/AashmikChakraborty/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0922-sort-array-by-parity-ii) |
