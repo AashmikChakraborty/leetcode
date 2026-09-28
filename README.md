@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AashmikChakraborty/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AashmikChakraborty/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0704-binary-search) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AashmikChakraborty/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AashmikChakraborty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AashmikChakraborty/leetcode/tree/master/0704-binary-search) |
 ## Sorting
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AashmikChakraborty/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/AashmikChakraborty/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AashmikChakraborty/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/AashmikChakraborty/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AashmikChakraborty/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/AashmikChakraborty/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AashmikChakraborty/leetcode/tree/master/0922-sort-array-by-parity-ii) |
