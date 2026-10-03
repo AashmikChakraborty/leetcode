@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AashmikChakraborty/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AashmikChakraborty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/AashmikChakraborty/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AashmikChakraborty/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AashmikChakraborty/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AashmikChakraborty/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AashmikChakraborty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AashmikChakraborty/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AashmikChakraborty/leetcode/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AashmikChakraborty/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AashmikChakraborty/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AashmikChakraborty/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AashmikChakraborty/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AashmikChakraborty/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/AashmikChakraborty/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
